@@ -1,0 +1,23 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlankForms.Android", "BlankForms.Android\BlankForms.Android.csproj", "{EAD34D60-BF4E-4C5A-ADAC-916ECF4E1BE7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlankForms", "BlankForms\BlankForms.csproj", "{C8006774-CDF3-4217-A741-4CE0282809E2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EAD34D60-BF4E-4C5A-ADAC-916ECF4E1BE7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EAD34D60-BF4E-4C5A-ADAC-916ECF4E1BE7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EAD34D60-BF4E-4C5A-ADAC-916ECF4E1BE7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EAD34D60-BF4E-4C5A-ADAC-916ECF4E1BE7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C8006774-CDF3-4217-A741-4CE0282809E2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C8006774-CDF3-4217-A741-4CE0282809E2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C8006774-CDF3-4217-A741-4CE0282809E2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C8006774-CDF3-4217-A741-4CE0282809E2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
