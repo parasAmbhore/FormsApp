@@ -20,6 +20,7 @@ namespace BlankForms.Droid
             base.OnCreate(savedInstanceState);
             Console.Write("test");
             Console.Write("test2");
+            Console.Write("test3");
 
             Xamarin.Essentials.Platform.Init(this, savedInstanceState);
             global::Xamarin.Forms.Forms.Init(this, savedInstanceState);
