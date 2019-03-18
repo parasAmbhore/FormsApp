@@ -18,6 +18,7 @@ namespace BlankForms.Droid
             ToolbarResource = Resource.Layout.Toolbar;
 
             base.OnCreate(savedInstanceState);
+            Console.Write("test");
 
 
             Xamarin.Essentials.Platform.Init(this, savedInstanceState);
